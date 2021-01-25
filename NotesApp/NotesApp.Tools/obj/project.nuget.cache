@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "xr+JDj3uxIn6z27haRWRUCLr50BvXZGSUEgfdG29yOggAL760n5JGB/IlDNrVv/nZIKlK6FFZhLd0gSVkuPTWQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Михаил\\source\\PMHW5\\dotNet\\HomeWorks\\HomeWork5\\NotesApp\\NotesApp.Tools\\NotesApp.Tools.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Михаил\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Михаил\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
